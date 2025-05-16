@@ -21,6 +21,6 @@ This project aims to bridge the communication gap between hearing-impaired indiv
    ```bash
    git clone https://github.com/yourusername/sign-language-translation-tool.git
    cd sign-language-translation-tool
-##Conclusion
+## Conclusion
 
 This Sign Language Translation Tool is a step forward in making communication more inclusive for the hearing-impaired community. It serves as a foundation for future advancements in gesture recognition and real-time language translation. Future improvements could include supporting full sentence translation, regional sign languages, and integration into mobile platforms.
